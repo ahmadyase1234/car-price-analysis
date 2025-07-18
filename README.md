@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Car Price Dashboard](https://github.com/ahmadyase1234/car-price-dashboard/blob/main/car_dashboard.png)
+![Car Price Dashboard](https://github.com/ahmadyase1234/car-price-analysis/blob/main/IMG-20250713-WA0023.jpg)
 
 ---
 
