@@ -1,7 +1,7 @@
 # 🚗 Car Price Analysis – Excel Dashboard
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the Excel File](https://github.com/ahmadyase1234/car-price-dashboard/blob/main/car_price_dashboard.xlsx)**
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/car-price-analysis/blob/main/car%20price%20analysis.xlsx)**
 
 ---
 
